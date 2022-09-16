@@ -1,7 +1,7 @@
 # My Portfolio
 This repository contains the work I have done since I started to work with data as a tool to address complex problems and find the best ways to solve them. 
 
-**Classification - Classification Trees and Logistic Regression**
+**Machine Learning / Classification - Classification Trees and Logistic Regression**
 
 The German Credit data is a modified dataset taken from the University of California, Irvine and its Machine Learning repository.  It contains 1.000 records with information ergarding the attributes of its clients and how are they are classifed as good or bad credit. 
 
