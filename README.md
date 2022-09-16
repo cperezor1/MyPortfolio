@@ -13,7 +13,7 @@ Two models (Logit regression) and Decision trees were tested and their accuracy 
 The findings during data exploration were the lack of FEMALES on the gender fields, the suggested uses for the given credit are very basic.
 The chosen model was Classification trees that showed a general lower accuracy but during deployment showed less false-positives (bad clients classified as good clients) and that feature would make a huge difference in monetary terms to the bank results. 
 
-![German Credit_Classification Tree](https://github.com/cperezor1/MyPortfolio/blob/main/German%20Credit%20Classification%20Tree.jpg)
+![German Credit_Classification Tree](https://github.com/cperezor1/MyPortfolio/blob/main/German%20Credit%20Classification%20Tree.jpg){:target="_blank"}
 
 
-[Case Presentation](https://github.com/cperezor1/MyPortfolio/blob/main/German%20Credit%20Business%20Case%20Presentation.pdf) / [Code](https://github.com/cperezor1/MyPortfolio/blob/main/GermanCreditCode.pdf) 
+[Case Presentation](https://github.com/cperezor1/MyPortfolio/blob/main/German%20Credit%20Business%20Case%20Presentation.pdf) / [Code](https://github.com/cperezor1/MyPortfolio/blob/main/GermanCreditCode.pdf) {:target="_blank"}
