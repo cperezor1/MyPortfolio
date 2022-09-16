@@ -17,7 +17,7 @@ The chosen model was Classification trees that showed a general lower accuracy b
 
 You can see the presentation [here](https://github.com/cperezor1/MyPortfolio/blob/main/German%20Credit%20Business%20Case%20Presentation.pdf) and the python code file [here](https://github.com/cperezor1/MyPortfolio/blob/main/GermanCreditCode.pdf). 
 
-=================================================================================
+===========================================================================
 
 ## **Prediction - Linear Regression**
 
@@ -34,4 +34,4 @@ Initially, the project was designed to help the owner leverage her data to obtai
 
 You can give a quick look at the [business presentation](https://github.com/cperezor1/MyPortfolio/blob/main/BUSINESS%20%20Capstone%20Presentation.pdf), or if you want a more technical explanation, you can click [here](https://github.com/cperezor1/MyPortfolio/blob/main/TECHNICAL_%20Capstone%20Presentation.pdf).
 
-================================================================================
+===========================================================================
