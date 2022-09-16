@@ -15,7 +15,7 @@ The chosen model was Classification trees that showed a general lower accuracy b
 
 ![German Credit_Classification Tree](https://github.com/cperezor1/MyPortfolio/blob/main/German%20Credit%20Classification%20Tree.jpg)
 
-[Case Presentation](https://github.com/cperezor1/MyPortfolio/blob/main/German%20Credit%20Business%20Case%20Presentation.pdf) / [Code](https://github.com/cperezor1/MyPortfolio/blob/main/GermanCreditCode.pdf) 
+You can see the presentation [here](https://github.com/cperezor1/MyPortfolio/blob/main/German%20Credit%20Business%20Case%20Presentation.pdf) and the python code file [here](https://github.com/cperezor1/MyPortfolio/blob/main/GermanCreditCode.pdf). 
 
 =================================================================================
 
