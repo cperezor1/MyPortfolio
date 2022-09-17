@@ -35,3 +35,19 @@ Initially, the project was designed to help the owner leverage her data to obtai
 You can give a quick look at the [business presentation](https://github.com/cperezor1/MyPortfolio/blob/main/BUSINESS%20%20Capstone%20Presentation.pdf), or if you want a more technical explanation, you can click [here](https://github.com/cperezor1/MyPortfolio/blob/main/TECHNICAL_%20Capstone%20Presentation.pdf).
 
 ===========================================================================
+
+## **Visualization - Excel Cleansing**
+
+![Car Accident](https://github.com/cperezor1/MyPortfolio/blob/main/Car%20Accident%20Image.webp)
+
+Traffic incidents represent a major concern to all who use roadways –drivers, pedestrians, bicyclists, and transit riders. However, they are also of interest to municipal leaders and planners, who work to minimize them.
+People injured or dead in traffic accidents are counted by thousands, but such statistics only hint at the tragedy experienced by individuals, families, and communities. These crashes incur high costs, including property damage, medical expenses, lost productivity, excess traffic congestion, and the pain and suffering associated with an injury or fatal crash.
+The purpose of the analysis presented was to produce actionable insights and provide them to planners, engineers, elected officials, and the general public to implement strategies to reduce its occurrence and limit the damages.
+
+The data used is a subset of the 2012 Traffic Accidents report from Denver's Open Data Catalog and was cleaned, adjusted, and presented graphically and interactively using MS Power BI. 
+
+The cleaning process (done in MS Excel) can be reviewed in this [file](https://github.com/cperezor1/MyPortfolio/blob/main/XLSX%20Data%20File.xlsx), and the final report is [here.](https://github.com/cperezor1/MyPortfolio/blob/main/XLSX%20and%20PowerBI%20Report%20on%20Traffic%20Accidents%20in%20Denver%202012.pdf) [(MS Power BI Source File)](https://github.com/cperezor1/MyPortfolio/blob/main/Denver%20Traffic%20Accidents%20in%202012.pbix)
+
+===========================================================================
+
+
