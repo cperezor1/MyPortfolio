@@ -50,4 +50,12 @@ The cleaning process (done in MS Excel) can be reviewed in this [file](https://g
 
 ===========================================================================
 
+# The Forage - Virtual work experience programs for Fortune 500 companies.
+
+Launched in 2017, Forage invented the virtual work experience. It allows any person the chance to experience work in some of the best companies around the world replicating the use of relevant tools necessary to complete a typical workday. The experiences include the challenges of obtaining information from clients, processing it, and presenting it back to   senior management or presenting back an action plan to the clients.
+
+This repository includes the experience programs I took, the thinking process I did in them and the relevant answers that will demonstrate my ability to perform them in real life scenarios.
+
+To visit it, click [here.](https://github.com/cperezor1/TheForage)
+
 
