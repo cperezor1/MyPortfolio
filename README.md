@@ -67,6 +67,6 @@ I've been trying to exercise mine, and this was the result...
 
 ![enter image description here](https://github.com/cperezor1/MyPortfolio/blob/main/LCBO%20jobs%20search.jpg)
 
-Look at the complete video on [**YouTube**](https://youtu.be/km4FVDQXP3I) and the complete presentation ong [GitHub](https://github.com/cperezor1/MyPortfolio/blob/main/Looking%20for%20jobs%20using%20data%20analysis.pdf)
+Look at the complete video on [**YouTube**](https://youtu.be/km4FVDQXP3I) and the detailed presentation on [GitHub](https://github.com/cperezor1/MyPortfolio/blob/main/Looking%20for%20jobs%20using%20data%20analysis.pdf)
 
 
