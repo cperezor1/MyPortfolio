@@ -58,4 +58,15 @@ This repository includes the experience programs I took, the thinking process I 
 
 To visit it, click [here.](https://github.com/cperezor1/TheForage)
 
+===========================================================================
+# Video - Looking for jobs using data
+
+I heard once a professor talking about creativity and how important is for data science practicioners to embrace it, no matter how hard it might be. 
+
+Being successful in data science is more than simply learning all of the scikit-learn methods and tuning parameters. The data that you have is rarely the data that you want and creativity is **the skill required to bridge that gap**. Being creative means understanding what the objective of the analysis is, and go beyond of what is obvious, explicit or expected. A good understanding of the mechanics and the ability to explore the boundaries and take risks (with moderation) are the key to solve many problems.
+
+I've been trying to exercise mine and this was the result...
+![enter image description here](https://github.com/cperezor1/MyPortfolio/blob/main/LCBO%20jobs%20search.jpg)
+
+Look at the complete video on [**YouTube**](https://youtu.be/km4FVDQXP3I)
 
